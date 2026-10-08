@@ -1,0 +1,385 @@
+pre;andergray_probabilityboundsanalysis.jl;cf16a4ca72b9ace3e0c4bf50af8c8ead95509ac8;Ander Gray <38252522+AnderGray@users.noreply.github.com>;1652709605;"Merge pull request #39 from AnderGray/new_interpolation
+
+New interpolation"
+pre;andergray_probabilityboundsanalysis.jl;699bd781d61e522d9ef5ea305c29479fba8ca016;Documenter.jl <documenter@juliadocs.github.io>;1652709749;"build based on cf16a4c
+"
+pre;andergray_probabilityboundsanalysis.jl;bef1767a46aa6edc034fb50ec39b32eea9a118a1;Ander Gray <38252522+AnderGray@users.noreply.github.com>;1652782773;Update Project.toml
+pre;andergray_probabilityboundsanalysis.jl;e41aa44d4de6ab67eb78c584491e5ff806bd14ed;Documenter.jl <documenter@juliadocs.github.io>;1652782909;"build based on bef1767
+"
+pre;andergray_probabilityboundsanalysis.jl;2eafd7b95dffc0a792ab2151990cafbad992c33f;Christian Schilling <git@christianschilling.net>;1653153743;Update special.jl
+pre;andergray_probabilityboundsanalysis.jl;d8a105fd1e89476093f2348235486efe094223fb;Christian Schilling <git@christianschilling.net>;1653153869;Update Project.toml
+pre;andergray_probabilityboundsanalysis.jl;319712bd5a7bc58bbab546b6f311a4efab306419;Ander Gray <38252522+AnderGray@users.noreply.github.com>;1653155327;"Merge pull request #40 from schillic/patch-1
+
+Replace auxiliary method outsourced to IntervalArithmetic"
+pre;andergray_probabilityboundsanalysis.jl;0a3338bd8a3fbe47d90f7253db105aecaa531fc3;Documenter.jl <documenter@juliadocs.github.io>;1653155441;"build based on 319712b
+"
+pre;andergray_probabilityboundsanalysis.jl;0a41782ed3f1044737eae33d1ec2e90ee1275789;github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>;1657591398;"CompatHelper: bump compat for ""Interpolations"" to ""0.14""
+"
+pre;andergray_probabilityboundsanalysis.jl;e3602812a2ba008b0df0b5f65a89aa6ecfc994b6;github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>;1657591401;"Merge 0a41782ed3f1044737eae33d1ec2e90ee1275789 into 319712bd5a7bc58bbab546b6f311a4efab306419
+"
+post;andergray_probabilityboundsanalysis.jl;de9ad87a7fa143a5428329a41d948c3a5eb69e31;Ander Gray <38252522+AnderGray@users.noreply.github.com>;1736782452;Update README.md
+post;andergray_probabilityboundsanalysis.jl;20c6dcbfd2f40dc6c3d99708170864ce39422628;github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>;1741642187;"Merge 0a41782ed3f1044737eae33d1ec2e90ee1275789 into de9ad87a7fa143a5428329a41d948c3a5eb69e31
+"
+pre;brownhci_drafty;ddb37314921732cdbb821ce1737d466c04c94168;Shaun Wallace <shaun_wallace@icerm.brown.edu>;1504754592;Update .gitignore
+pre;brownhci_drafty;e0f5290641fe8db6ced04d61391406e560cda1af;Shaun Wallace <shaun_wallace@icerm.brown.edu>;1512354760;"Small updates
+"
+pre;brownhci_drafty;e1dde1839c795ff7617ab7605838d7a3411d412b;Shaun Wallace <shaun_wallace@icerm.brown.edu>;1512360366;Updates to match with AJobs
+pre;brownhci_drafty;f07dca16599863ffe7445234d149ae3c2c67487e;Shaun Wallace <shaun_wallace@icerm.brown.edu>;1520100384;"Maintenance Window Component
+"
+pre;brownhci_drafty;e5b8e9fff2d7eb9c8a417bbb25b52231850105d0;Shaun Wallace <shaun_wallace@icerm.brown.edu>;1520100390;"Merge branch 'shaun=dev-branch' of https://github.com/brownhci/drafty into shaun=dev-branch
+"
+pre;brownhci_drafty;1d0b0f08c4d3318fc4e9e4d394b885285be661f4;Shaun Wallace <shaun_wallace@icerm.brown.edu>;1520100428;"Fix Server Migration DB References
+
+Old code would reference table names with .drafty
+"
+pre;brownhci_drafty;9c3974d72d2ff881559b7ea5b9d890ded1403c0c;Shaun Wallace <shaun_wallace@icerm.brown.edu>;1520100656;"Fix Data Export Issue
+
+Chage drafty.Perfon JDBC ref to Person
+"
+pre;brownhci_drafty;9827ff46fca489a13ceab5d304e1a9dd336e003f;Shaun Wallace <shaun_wallace@brown.edu>;1520100755;Update .gitignore
+pre;brownhci_drafty;c1a004b25c0cee7212f42eb330bcffd031555f18;Shaun Wallace <shaun_wallace@icerm.brown.edu>;1520100803;"update .gitignore
+"
+pre;brownhci_drafty;aac033c138d5eed3a513122e16a60a9a6fa22d1f;Shaun Wallace <shaun_wallace@icerm.brown.edu>;1520719951;"vaadin-server pom update
+"
+post;brownhci_drafty;5fd7ac57e3e81f94a5b4ec329beceb3ea54d5da6;Shaun Wallace <shaun_wallace@brown.edu>;1548815865;"Old Drafty final commit
+"
+post;brownhci_drafty;e32aaebc0a67989c4ecc80c5f5707bbd3dadb0a8;Shaun Wallace <swallace21@gmail.com>;1569951482;"Initi - Remove Old Files
+"
+post;brownhci_drafty;bf249748cc40d6d9ea88e3b21310e8cf0f4099b5;Shaun Wallace <swallace21@gmail.com>;1569951600;"Remove old hidden files + directorirs
+"
+post;brownhci_drafty;be23524ca2ace03273fff64feb9cce7a97bf5ab4;Shaun Wallace <shaun_wallace@brown.edu>;1569984549;Create README.md
+post;brownhci_drafty;e680c92e57610f17aa957ab96e813863942b7ead;Shaun Wallace <shaun_wallace@brown.edu>;1569984566;Update README.md
+post;brownhci_drafty;49d7cda3aa198c67aba0c30087a88f2917844351;Shaun Wallace <shaun_wallace@brown.edu>;1569984586;Update README.md
+post;brownhci_drafty;14efb1e6feb2b4373e5e39f14e7482911344514a;Shaun Wallace <shaun_wallace@brown.edu>;1569984611;Create README.md
+post;brownhci_drafty;ba16110c99f3a60f1212766eda4d9c80bca021d8;pengzhengyi <zhengyi_peng@brown.edu>;1570200195;"ignore macos files
+"
+post;brownhci_drafty;4778e70f5494f0fc697e6d90ddbe15d5da35d5a0;pengzhengyi <zhengyi_peng@brown.edu>;1570200227;"ignore some node files
+"
+post;brownhci_drafty;39290ea4600f4d89b140c3dfef58059408a151ef;pengzhengyi <zhengyi_peng@brown.edu>;1570200509;"add typescript starter
+"
+pre;computationalmodelling_fidimag;5c401e3af5155814bd3cd92fdc90c79ed2cf1209;davidcortesortuno <david.cortes.o@gmail.com>;1643836211;"Updated Sundials installation: removed sse2 flag
+"
+pre;computationalmodelling_fidimag;f435ba70b29c354c09cfa30ef63c5e59bed89e6c;davidcortesortuno <david.cortes.o@gmail.com>;1643836486;"GHA: added psutil
+"
+pre;computationalmodelling_fidimag;bafa0ac20de1344af0c04f174196236f04365c0b;davidcortesortuno <david.cortes.o@gmail.com>;1643855341;"GHA: updated python versions
+"
+pre;computationalmodelling_fidimag;a734eb68de895aa3539f4e223271587e30d1bb6b;davidcortesortuno <david.cortes.o@gmail.com>;1643856131;"GHA: updated python versions with correct syntax
+"
+pre;computationalmodelling_fidimag;da2907aeed31145e8511e3e0f7b769096106be12;davidcortesortuno <david.cortes.o@gmail.com>;1643856161;"GHA: updated tests badge. preparing to merge master
+"
+pre;computationalmodelling_fidimag;d0d42f7b1129e6e3005bd34e2e4f780af4e85b4e;davidcortesortuno <david.cortes.o@gmail.com>;1643856368;"GHA: updated tests badge
+"
+pre;computationalmodelling_fidimag;53e68478a49351d350f4ab2f1e207c0a0378ec88;davidcortesortuno <david.cortes.o@gmail.com>;1643857262;"GHA: using latest python. Failing randomly
+"
+pre;computationalmodelling_fidimag;a0f46cfd0d1f13478a375c789ba75149e1a5a41b;davidcortesortuno <david.cortes.o@gmail.com>;1643895809;"GHA: removed c++ from codeql. Updated super linter
+"
+pre;computationalmodelling_fidimag;e5db91f88826482793671683c5a61e06e57dcff0;davidcortesortuno <david.cortes.o@gmail.com>;1644617930;"Added config files to make a flatpak package
+"
+pre;computationalmodelling_fidimag;871bc225c7a0d842350ccfb2a90ec0864c63ce68;davidcortesortuno <david.cortes.o@gmail.com>;1644618968;"Tuning flatpak deps and fidimag build
+"
+post;computationalmodelling_fidimag;0c57c633c41576e15951dbfa7fcc1e98b9183fd1;davidcortesortuno <david.cortes.o@gmail.com>;1662029814;"Starting implementation of nebm with K-S algorithm
+"
+post;computationalmodelling_fidimag;feec815a2ac62488a6ed62daa6ace151f1f091b2;davidcortesortuno <david.cortes.o@gmail.com>;1662124393;"Implementing integrator
+"
+post;computationalmodelling_fidimag;647e12205cdae121eb5ce6522641b953808e37c7;Ryan Pepper <ryan.pepper1@gmail.com>;1664865536;Update README.md
+post;computationalmodelling_fidimag;0327dd6bea03bab0d35f001d6c2937392edb0ba0;Ryan Pepper <ryan.pepper1@gmail.com>;1664865613;"Merge pull request #161 from computationalmodelling/update-pubs
+
+Update README.md"
+post;computationalmodelling_fidimag;544e0b7c1da3aafe84272f5804ebcd3f3aa4f917;davidcortesortuno <david.cortes@usm.cl>;1681939794;"Added user extension directory (bugfix?)
+"
+post;computationalmodelling_fidimag;3aeea20f34c66024c30dfc49192eeda9375c4c6b;davidcortesortuno <david.cortes@usm.cl>;1682110763;"Implementing new CG minimiser
+"
+post;computationalmodelling_fidimag;40383c5877dfb285cf1cfe3bc065a799c6635430;davidcortesortuno <david.cortes@usm.cl>;1682371187;"Added tot E variable to atomistic Zeeman
+"
+post;computationalmodelling_fidimag;1da42b6029e2f009e453906104e9653e12120923;davidcortesortuno <david.cortes@usm.cl>;1682371243;"Added Hubert minimiser to sim base. Finished implementation, todo: polishing and doc
+"
+post;computationalmodelling_fidimag;99b024be5f0bba1ccc52b9e1edf108e7e5b8a623;davidcortesortuno <david.cortes@usm.cl>;1682371279;"Added slow test mark in pyini file
+"
+post;computationalmodelling_fidimag;d768f5657dcb41d52e21292610cfef86bcf4379e;davidcortesortuno <david.cortes@usm.cl>;1682456899;"Improved HM method. Added stats (in progress)
+"
+pre;cybergis_job-supervisor;6c714e42568f19f60eebbb13dcc5ef7493a6e1f5;alexandermichels <michels9@illinois.edu>;1683211279;"missed newlines before rm tmp_path
+"
+pre;cybergis_job-supervisor;b364187093338feba2b526ba85612239276e51a4;alexandermichels <michels9@illinois.edu>;1683233182;"I'm going to be mad if this fixes things lmao
+"
+pre;cybergis_job-supervisor;d9601bd4ce002bf9d9802a1cfc897a0f66d1e417;alexandermichels <michels9@illinois.edu>;1683235220;"removing cern repo
+"
+pre;cybergis_job-supervisor;342ed5d46ec15546ed75aaab8bf5df0cb247ac87;Taylor <33166821+taylorziegler@users.noreply.github.com>;1684122353;"debug console.logs
+"
+pre;cybergis_job-supervisor;e4621e419a360e349b82e8a0887d537a174022a2;Taylor <33166821+taylorziegler@users.noreply.github.com>;1684124622;"try to fix loop
+"
+pre;cybergis_job-supervisor;faf4de8b781a238f9f934470d8551431c8e248f1;alexandermichels <michels9@illinois.edu>;1685456661;"working on per hpc allow/deny
+"
+pre;cybergis_job-supervisor;1ab1a0e20bd60ff3725c53bd3e0a7a2fb9acf9b1;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1688916838;"Bump tough-cookie from 4.0.0 to 4.1.3
+
+Bumps [tough-cookie](https://github.com/salesforce/tough-cookie) from 4.0.0 to 4.1.3.
+- [Release notes](https://github.com/salesforce/tough-cookie/releases)
+- [Changelog](https://github.com/salesforce/tough-cookie/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/salesforce/tough-cookie/compare/v4.0.0...v4.1.3)
+
+---
+updated-dependencies:
+- dependency-name: tough-cookie
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;cybergis_job-supervisor;6f1810ad013ed1776f7e65d40a5928c10da1bff1;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1689047240;"Bump semver from 5.7.1 to 5.7.2
+
+Bumps [semver](https://github.com/npm/node-semver) from 5.7.1 to 5.7.2.
+- [Release notes](https://github.com/npm/node-semver/releases)
+- [Changelog](https://github.com/npm/node-semver/blob/v5.7.2/CHANGELOG.md)
+- [Commits](https://github.com/npm/node-semver/compare/v5.7.1...v5.7.2)
+
+---
+updated-dependencies:
+- dependency-name: semver
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;cybergis_job-supervisor;459c550d52a0160e5738fcff5b768f3f1aec0441;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1689772697;"Bump word-wrap from 1.2.3 to 1.2.4
+
+Bumps [word-wrap](https://github.com/jonschlinkert/word-wrap) from 1.2.3 to 1.2.4.
+- [Release notes](https://github.com/jonschlinkert/word-wrap/releases)
+- [Commits](https://github.com/jonschlinkert/word-wrap/compare/1.2.3...1.2.4)
+
+---
+updated-dependencies:
+- dependency-name: word-wrap
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;cybergis_job-supervisor;3247c1c80d082086f712c7a02e74035abb195080;Alexander Michels <michels9@illinois.edu>;1690812639;"Merge pull request #99 from alexandermichels/hpc-allow-deny-2023-05
+
+working on per hpc allow/deny. Tested and worked."
+post;cybergis_job-supervisor;5e69ed0334bc690924109399c002ccb8816cc13b;John Speaks <113151039+JTSIV1@users.noreply.github.com>;1701123892;Exponential backoff implementation w/ some bugs
+post;cybergis_job-supervisor;a85bae811db33f9602ec06bbb93240cdbb74dbf6;John Speaks <113151039+JTSIV1@users.noreply.github.com>;1701899101;Update Supervisor.ts
+post;cybergis_job-supervisor;c997f9dfe85290516054b39d307fc19e54a69e5e;John Speaks <113151039+JTSIV1@users.noreply.github.com>;1705611032;Resolved sleep issue
+post;cybergis_job-supervisor;bb317cdd209736fd5607e8d2ed7061c66ead7a41;alexandermichels <michels9@illinois.edu>;1705939766;"fix for Globus user mapping on CyberGISX and updates to configs
+"
+post;cybergis_job-supervisor;48f4c5fd91166a6495261c143a1f80d8dfd8faf6;Alexander Michels <michels9@illinois.edu>;1705940653;"Update build-core.yml
+
+Attempted fix for the build workflow"
+post;cybergis_job-supervisor;50d7c09b5363d3a83881c319e461e75ece53a208;Alexander Michels <michels9@illinois.edu>;1705946223;Update build-core.yml
+post;cybergis_job-supervisor;5216a3ef2acd48ee8ce1b1ae8355d98d3d258f80;Alexander Michels <michels9@illinois.edu>;1705946703;"Update package-lock.json
+
+taobao registry CERT expired"
+post;cybergis_job-supervisor;11fba06fbc20978155313c8e7990b068b1f3161f;Alexander Michels <michels9@illinois.edu>;1705947269;"Merge branch 'cybergis:v2' into 202401-globusfix
+"
+post;cybergis_job-supervisor;1e523506eb0cca2c8ddedac86c8aedcd6719230e;yianzhang14 <78504318+yianzhang14@users.noreply.github.com>;1706069246;"refactored statistic
+"
+post;cybergis_job-supervisor;873b1818f6fb6c2573fee7e2ab6142f29ed8d83b;yianzhang14 <78504318+yianzhang14@users.noreply.github.com>;1706069474;"Merge remote-tracking branch 'upstream/v2' into v2
+"
+pre;hpi-information-systems_metanome;c313ac90d96691fb404827fb9e72281707a37764;Youri K <youri-k@users.noreply.github.com>;1666950770;"Merge cea38e983237569200646a05d7cd56c520835e6c into eab0a20e925e488a61c43f6a17570a7ad80cb053
+"
+pre;hpi-information-systems_metanome;4da65a937dc951e7f2c3586ddd4adc449cd037a0;Jakob L. Müller <me@jakob-l-m.de>;1698065353;"Adjusted dependency versions to fix build pipeline
+"
+pre;hpi-information-systems_metanome;3094006350a54c3d2c391efb69c6cc674196828e;Youri K <youri-k@users.noreply.github.com>;1703082218;"Import Metanome CLI  (#432)
+
+* add metanome cli
+
+* remove duplicated license
+
+* update readme
+
+* remove metacrate and profile db
+
+* fix typo
+
+* add link to original version
+
+* add all algorithms in order
+
+---------
+
+Co-authored-by: Youri K <youri.kaminsky@student.hpi.de>"
+pre;hpi-information-systems_metanome;2569252a6225e933f583cfbf52923f2d1ea76d5d;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1703737395;"Merge a16e167258b4b81588aadb20c8681bec8d09be99 into 3094006350a54c3d2c391efb69c6cc674196828e
+"
+pre;hpi-information-systems_metanome;7f2950f6a6a8e1ba199f3bb9e70f39c65d0a6e43;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1703737395;"Merge 70d180feb86e9523c9640523fece934f9f5d36d5 into 3094006350a54c3d2c391efb69c6cc674196828e
+"
+pre;hpi-information-systems_metanome;d278fb14b6af9beb5b5ecf0bb5b43a011ff73fa6;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1703737395;"Merge 2462d70b7488a377fe6afccf26d858594b0635f0 into 3094006350a54c3d2c391efb69c6cc674196828e
+"
+pre;hpi-information-systems_metanome;9f1351ecfea218e716054b7d90265cbedb5e2e92;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1703737395;"Merge e6ce30a805d24a0be3d0c2bb4bd9d28d3c8f4e9e into 3094006350a54c3d2c391efb69c6cc674196828e
+"
+pre;hpi-information-systems_metanome;e2121e1e8fc1f94a1b31cf20570f9698bb122b8e;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1703737395;"Merge 295332eb46147da25b6d2ef544aec26e5bff2fcd into 3094006350a54c3d2c391efb69c6cc674196828e
+"
+pre;hpi-information-systems_metanome;d1b06436b259ec4e7588853adeb06ab6445519ca;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1703737395;"Merge 78575813df08865ec4a3372cb4bbbe8295949a08 into 3094006350a54c3d2c391efb69c6cc674196828e
+"
+pre;hpi-information-systems_metanome;53f1391f5c47f968fc8a8e1cf284ccf9a57a817f;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1703737395;"Merge 1379788d59eae532f4bb5e2a1601c9c2944b6e65 into 3094006350a54c3d2c391efb69c6cc674196828e
+"
+post;hpi-information-systems_metanome;3398a2ab6a976bee4aab103535f2cf6c1b33b9c9;Seegerma <seegerma@students.uni-marburg.de>;1739210113;"Added support for partial dependencies
+"
+post;hpi-information-systems_metanome;891c948410bafc355a61bad29ce680ff24f6bd09;Seegerma <seegerma@students.uni-marburg.de>;1739213792;"Fixed typos in comments/docs and variables
+"
+post;hpi-information-systems_metanome;558a9950807891f7833b2bc04538d6f4eed60a38;Seegerma <seegerma@students.uni-marburg.de>;1741716419;"Changed Partial to Relaxed Dependencies to be more abstract
+"
+post;hpi-information-systems_metanome;8ddcbd676e709533164f62d4240d693bca64e054;Thorsten Papenbrock <papenbrock@informatik.uni-marburg.de>;1741765470;"Merge pull request #441 from SeegerM/feature/partial-dependencies
+
+Add support for relaxed dependencies"
+post;hpi-information-systems_metanome;2469eecede87e1dd8bb0979c432a2843bccf4953;Youri K <youri-k@users.noreply.github.com>;1749145458;Update README.md
+post;hpi-information-systems_metanome;720e5add0ddc7023e8a16563a796dd80f266fc40;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1756126634;"Merge a16e167258b4b81588aadb20c8681bec8d09be99 into 2469eecede87e1dd8bb0979c432a2843bccf4953
+"
+post;hpi-information-systems_metanome;57c90f31341f24b9cc3e81e27073f055c9b80361;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1756126634;"Merge 295332eb46147da25b6d2ef544aec26e5bff2fcd into 2469eecede87e1dd8bb0979c432a2843bccf4953
+"
+post;hpi-information-systems_metanome;ef7b715debc523b84f2687104846fa45f542c0a9;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1756126634;"Merge 70d180feb86e9523c9640523fece934f9f5d36d5 into 2469eecede87e1dd8bb0979c432a2843bccf4953
+"
+post;hpi-information-systems_metanome;e993adf0fa55e04ef9e196d14ad8a516ed3b8f17;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1756126634;"Merge 78575813df08865ec4a3372cb4bbbe8295949a08 into 2469eecede87e1dd8bb0979c432a2843bccf4953
+"
+post;hpi-information-systems_metanome;1f1d86ebde62b65c28adfb22677a72f19ee37cf2;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1756126637;"Merge 2462d70b7488a377fe6afccf26d858594b0635f0 into 2469eecede87e1dd8bb0979c432a2843bccf4953
+"
+pre;libfive_libfive;e0ae2364b57a5d19eaf001887db9504a0b4bd92f;Matt Keeter <matt.j.keeter@gmail.com>;1480599506;"First draft of root finding (doesn't work)
+"
+pre;libfive_libfive;cfaac38e6c52d8cc5b58becce0908f2e75438549;Matt Keeter <matt.j.keeter@gmail.com>;1480600404;"Add solver to CMakeLists
+"
+pre;libfive_libfive;3df4682872e2369b1c645bbd8c5ce6515359f9aa;Matt Keeter <matt.j.keeter@gmail.com>;1480600417;"Better variable name
+"
+pre;libfive_libfive;941c6f5bc4af140254d6172fd5381a77d5581f27;Matt Keeter <matt.j.keeter@gmail.com>;1480600424;"Move in correct direction
+"
+pre;libfive_libfive;498d181d7b966440083a6dfb4013e30a0f26a942;Matt Keeter <matt.j.keeter@gmail.com>;1480600601;"Pick step to arrive at 0 in one shot
+"
+pre;libfive_libfive;69620cdf017744cc34a0d4260dfcbdad8c15c169;Matt Keeter <matt.j.keeter@gmail.com>;1480634696;"Add more test cases and make them work
+"
+pre;libfive_libfive;2dd92e4c8f75091a59b1c42379f074bdd5c7b457;Matt Keeter <matt.j.keeter@gmail.com>;1480634706;"Remove Haskell reference implementation
+"
+pre;libfive_libfive;ef3e88388edc08bc72377643d4e0142000e23c8b;Matt Keeter <matt.j.keeter@gmail.com>;1480635168;"Fix spurious semicolons
+"
+pre;libfive_libfive;9958e4d7c66676e3fbe6295f4b1b1e8da7309668;Matt Keeter <matt.j.keeter@gmail.com>;1480639060;"Add custom aligned allocator for result vector
+"
+pre;libfive_libfive;e9cc95b5b754fb250d75e5bcaf3aa6773566cfdc;Matt Keeter <matt.j.keeter@gmail.com>;1480639416;"Fix a handful of warnings on Mac
+"
+post;libfive_libfive;8c478bf0e8f7b6182f8a8fa1582cf2e3b68c7d61;Matt Keeter <matt.j.keeter@gmail.com>;1495316912;"First commit
+
+This code has a tangled history: it started in the `master` branch of
+[Ao](https://github.com/mkeeter/ao), then accumulated a bunch of changes
+in [Straylight](https://github.com/mkeeter/straylight), and is now back
+under the Ao name (for the moment) in a new orphan branch.
+
+(This commit won't compile, as I haven't updated the CMake files yet)
+"
+post;libfive_libfive;4a5216fe696b7f19ccc6fac094c62ed95130f12d;Matt Keeter <matt.j.keeter@gmail.com>;1495318397;"Everything builds now
+"
+post;libfive_libfive;d4d2fba88b14a70fe2c1cc3dab9920c6ee7c24ba;Matt Keeter <matt.j.keeter@gmail.com>;1495321123;"Switch features / DC from glm to Eigen
+"
+post;libfive_libfive;ca1aa27487f4873d4225422de68859465c5a8fa7;Matt Keeter <matt.j.keeter@gmail.com>;1495321260;"Move solver from glm to Eigen
+"
+post;libfive_libfive;ccececd40d2666d1b015e770734cefdb08fad171;Matt Keeter <matt.j.keeter@gmail.com>;1495324821;"Remove dependency on glm
+"
+post;libfive_libfive;a4513d3d51df6e726e086b1de81361b289f3c609;Matt Keeter <matt.j.keeter@gmail.com>;1495399566;"Disable Eigen's checks
+
+(this makes Vector3f::x(), etc not do bounds checking)
+"
+post;libfive_libfive;66446120617e88375809b7557b2617af7ce34d56;Matt Keeter <matt.j.keeter@gmail.com>;1495399631;"Use Vector3f instead of float x, float y, float z
+"
+post;libfive_libfive;57f5d8dc878898ea91ed5813370b81422ae5dbab;Matt Keeter <matt.j.keeter@gmail.com>;1495576999;"Minimal C API
+"
+post;libfive_libfive;bd63b3d081a465afa3abb05ddbb3792c48c391ff;Matt Keeter <matt.j.keeter@gmail.com>;1495588688;"Cleaning and testing C API
+"
+post;libfive_libfive;9b1e7fe9db935f2e4620819e7c5e9b26aba6bb65;Matt Keeter <matt.j.keeter@gmail.com>;1495763289;"Lots of unit testing for library
+"
+pre;nasa_smcpy;0bf1b8528f91646826593c7d73a07083aa55e2eb;Leser <pleser@ndc.nasa.gov>;1699539878;"updated imports for sring example
+"
+pre;nasa_smcpy;eb5ee56b659ae93acd493e2e2f0cf8c9ae7fd5cb;Leser <pleser@ndc.nasa.gov>;1699539894;"updated random effects example
+"
+pre;nasa_smcpy;3d11f32e26b22ba5fa34685ee25bd3fd68520541;Leser <pleser@ndc.nasa.gov>;1699541064;"refactor to remove warnings associated with -inf*0 and inf-inf operations
+"
+pre;nasa_smcpy;e74ae619692472c4ccfc0c92e27942eaec6c1091;Leser <pleser@ndc.nasa.gov>;1700074665;"added approx hierarchical likelihood function and corresponding tests
+"
+pre;nasa_smcpy;813e956e3471212e4344f07e5772517be384a1bd;Leser <pleser@ndc.nasa.gov>;1700074715;"added example for hierarchical approximation
+"
+pre;nasa_smcpy;bba66dfe596f43c0c433e8cd23a6e7be45a02b69;Leser <pleser@ndc.nasa.gov>;1700141940;"added gifs to ignore
+"
+pre;nasa_smcpy;1719b9fa461bb49164f01d1fce99a87e53f3077f;Leser <pleser@ndc.nasa.gov>;1701117742;"removed unneeded input
+"
+pre;nasa_smcpy;938e10c1219958491824c81047d80b88caac7839;Leser <pleser@ndc.nasa.gov>;1701117771;"changed ESS calcs to log space
+"
+pre;nasa_smcpy;952184ad198377e8381526af809bd835cb327c56;Patrick Leser <patrick.e.leser@gmail.com>;1701117937;"fixed compat issues
+"
+pre;nasa_smcpy;77ad6da143a97ac32d9f8ddfa6585ed9e56b23d7;Leser <pleser@ndc.nasa.gov>;1707491420;"bug fix: required phi list no longer holds all phis due to improper update in place
+"
+post;nasa_smcpy;10e60b2f2e9eccbd9abfbfb38b2e38ebf5717114;Leser <pleser@ndc.nasa.gov>;1733929819;"allow params to be array of objects
+"
+post;nasa_smcpy;7174e10234eee08bb6cfc361d5cbc4e0e2232c79;Leser <pleser@ndc.nasa.gov>;1733948581;"parameters should not be ints, so updated to arrays to prevent failing test on dtype check
+"
+post;nasa_smcpy;225a70978e3b6c5ead265fec6834cef63b1c5106;Leser <pleser@ndc.nasa.gov>;1733948646;"added option for cov calculation to be turned off during mutation; currently hidden as this is only for special case of bayesian SR
+"
+post;nasa_smcpy;b6d605f3ba5e762a7b3875cebaef0f0b50ea2556;Patrick Leser <patrick.e.leser@gmail.com>;1734450913;"fixed failures/warnings in unit test suite
+"
+post;nasa_smcpy;f945c2efd0f29e126d4eb13fc3d95a604aff0ad9;Patrick Leser <patrick.e.leser@gmail.com>;1735578847;"implemented setting, getting of random num generator in kernel/vector mcmc object
+"
+post;nasa_smcpy;c7572b2d427dd1e186c9a38fb86f993cd970bfbf;Patrick Leser <patrick.e.leser@gmail.com>;1735580114;"updated calls in mcmc to rvs and np random functions to use RNG
+"
+post;nasa_smcpy;c9c6551ca94af9497f8c23b1d0c8e11a5feea19f;Patrick Leser <patrick.e.leser@gmail.com>;1735591405;"implemented use of np rand num generator in priors, proposals, and updater
+"
+post;nasa_smcpy;d81678b28c2dbcd698371ab2a517bfe5eb10f288;Patrick Leser <patrick.e.leser@gmail.com>;1735592205;"added correct seeding syntax to simple example, still need to update elsewhere.
+"
+post;nasa_smcpy;3a5b8aed625161cfadf5f332135b484325911e55;Patrick Leser <patrick.e.leser@gmail.com>;1736954642;"implemented optional stratified resampling in Updater; passthrough samplers
+"
+post;nasa_smcpy;108a524367ac97bc0669414381a341f95bdc4e2b;Patrick Leser <patrick.e.leser@gmail.com>;1739207510;"updated todo on test
+"
+pre;stardist_stardist;604ba8c4a0d37ee7a454d6deec28c07402ba209c;Uwe Schmidt <uschmidt@mpi-cbg.de>;1530362613;"update readme
+"
+pre;stardist_stardist;ffd916e4cfb1c0db9ffd079756dce76f9517e3fb;Uwe Schmidt <uschmidt@mpi-cbg.de>;1530362774;"fix url
+"
+pre;stardist_stardist;7f1409bc74eb330653ccad860aa0d958db1eca5f;Uwe Schmidt <uschmidt@mpi-cbg.de>;1530363575;"bump version number
+
+- forgot to include this in the 0.1.1 release/tag
+"
+pre;stardist_stardist;cc614a008fc14abd68c5901f77f65cbcca1705a2;Uwe Schmidt <uschmidt@mpi-cbg.de>;1530565253;"add example image
+"
+pre;stardist_stardist;083eabf8451b13da8f5e8e0adb9bcc837b408a0c;Uwe Schmidt <uschmidt83@users.noreply.github.com>;1530565915;update readme
+pre;stardist_stardist;24a615cc5a6b3f3053801aca0cd51cbc86da954f;Martin Weigert <mweigert@mpi-cbg.de>;1530569480;"new overview figure
+"
+pre;stardist_stardist;087dad36be7dbf50ae53f915df69974e00efb207;Martin Weigert <maweigert@users.noreply.github.com>;1530569534;Update README.md
+pre;stardist_stardist;e48b3ae8af6573fbd31ea22471ab32514faaa9d7;Benjamin Wilhelm <apps@hedgehogcode.de>;1537705839;"Fix net_conv_after_unet docstring
+
+The net_conv_after_unet attribute of the stardist config object doesn't describe the number of convolutional layers after the U-Net but the number of filters of the convolutional layer after the U-Net."
+pre;stardist_stardist;b7e32b315f110f98c0b7f4b175c1d87840bf4f0c;Benjamin Wilhelm <apps@hedgehogcode.de>;1537705839;"Fix net_conv_after_unet docstring
+
+The net_conv_after_unet attribute of the stardist config object doesn't describe the number of convolutional layers after the U-Net but the number of filters of the convolutional layer after the U-Net."
+pre;stardist_stardist;a2db6b3e1784641a6994076dc5b7e0eac6565e25;Martin Weigert <mweigert@mpi-cbg.de>;1538313414;"Add bibtex to readme
+"
+post;stardist_stardist;01bf21aca7742a4a88837f49d640bd8b5cef8348;Uwe Schmidt <uschmidt@mpi-cbg.de>;1545958472;"bugfix for training with multi-channel images (#5)
+"
+post;stardist_stardist;97fa94d7f8e0bfada5c3ddd99c8b3baf5990f317;Uwe Schmidt <uschmidt@mpi-cbg.de>;1546624889;"bugfix for prediction with multi-channel images (#6)
+"
+post;stardist_stardist;d96f5e18ccd0618edf45d8ff16ec2a5088af1208;Zakrzewski <zakrzewfa@G41DL>;1546867321;"change model.predict to work for multi-channel img
+"
+post;stardist_stardist;ca989f9e03f86aae11e8783227b4013759033212;Zakrzewski <zakrzewfa@G41DL>;1546867321;"change model.predict to work for multi-channel img
+"
+post;stardist_stardist;825bf21ca502fc951656270abbeaee9e75184372;Uwe Schmidt <uschmidt@mpi-cbg.de>;1546874944;"additional changes for #6
+"
+post;stardist_stardist;718d2fab12006bd8d498a2d259e6e44300ce844a;Uwe Schmidt <uschmidt@mpi-cbg.de>;1547118138;"update examples to be compatible with multi-channel images
+"
+post;stardist_stardist;b762fa6892c63d2732bcd52b9f3184ae207a537f;Uwe Schmidt <uschmidt@mpi-cbg.de>;1548078142;"add options for multi-channel normalization in examples
+"
+post;stardist_stardist;ad7736619f32c83a9c4860730be716e619b87ba0;Uwe Schmidt <uschmidt@mpi-cbg.de>;1549292775;"add improved non-maximum suppression
+"
+post;stardist_stardist;a8d7a129b4eb4504b34b7dd902755b72331a76e5;Uwe Schmidt <uschmidt@mpi-cbg.de>;1549292858;"bump version number
+"
+post;stardist_stardist;837ec2cdc03d882556cc8e3091323f48f1318fcf;Uwe Schmidt <uschmidt@mpi-cbg.de>;1549298433;"change examples slightly to be compatible with python 3.5
+"
+pre;wsshin_maxwellfdfd;f593483617610cb646bfa228de7c701e4b854ed9;Wonseok Shin <wsshin97@gmail.com>;1470443277;"io/vec2amp.m is added
+"
+pre;wsshin_maxwellfdfd;810ba4c8e097143263bd84a52b361ee5b93fa730;Wonseok Shin <wsshin97@gmail.com>;1470443445;"In diff/MatrixEquation.m, PEC mask is appiled only for ft==FT.e
+"
+pre;wsshin_maxwellfdfd;bd0496f028e9c191d5c3f2a642d63f99d1021356;Wonseok Shin <wsshin97@gmail.com>;1472318118;"In diff/MatrixEquation.m, the bug that used this.ft before being set is fixed.
+"
+pre;wsshin_maxwellfdfd;9db697afca15ce876db9fb329278184bd9cf767f;Wonseok Shin <wsshin97@gmail.com>;1472319294;"Merge pull request #2 from hammer-wang/patch-1
+
+Modification of basic.html: the option `true` in the first code example is changed to `false`."
+pre;wsshin_maxwellfdfd;1b7a5e3684df044865dd73c02de608405e62aa3e;Wonseok Shin <wsshin97@gmail.com>;1472319821;"In doc/src/basic.m, the usage of inspect_only is explained more clearly
+"
+pre;wsshin_maxwellfdfd;3cbe79809fb73dff83888bd488650f29736ed50f;Wonseok Shin <wsshin97@gmail.com>;1508990734;"Change Object -> EMObject to avoid conflicts in MATLAB 2017
+"
+pre;wsshin_maxwellfdfd;21581846657c8a3b7fa5dd1eee1635c11fd5abe1;Wonseok Shin <wsshin97@gmail.com>;1517948389;"Planck constant is updated in base/PhyC.m
+"
+pre;wsshin_maxwellfdfd;a2119790d000c844f183cbf639158c88a1b47563;David <hopp.david27@gmail.com>;1518729050;"genpath for adding all sub-directories
+
+using addpath(genpath(maxwellfdfd_root)) adds all sub directories of maxwellfdfd, even if new ones are added."
+pre;wsshin_maxwellfdfd;611bc147a0a4dd1ba72e41ab392ed27fa8d8562c;David <hopp.david27@gmail.com>;1518729159;"Merge a2119790d000c844f183cbf639158c88a1b47563 into 21581846657c8a3b7fa5dd1eee1635c11fd5abe1
+"
+pre;wsshin_maxwellfdfd;f7d583813781694c8a6f0533a91f56c2a78a9ee5;Wonseok Shin <wsshin97@gmail.com>;1549295001;"Minor updates in comments and formatting
+"
+post;wsshin_maxwellfdfd;690ca8d534bddb5d287089deb7246e1a81f8bdd4;Wonseok Shin <wsshin97@gmail.com>;1744769477;"Comment out lines producing errors in example
+"
